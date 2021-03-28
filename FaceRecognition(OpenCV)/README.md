@@ -2,7 +2,7 @@
 
 # Facial Recognition Using OpenCV
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Facial_Recognition22.jpg" width="500" height="500">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Facial_Recognition22.jpg" height="500">
 
 ## Introduction
 
