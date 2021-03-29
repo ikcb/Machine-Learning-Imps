@@ -3,6 +3,11 @@
 
 ## Note - Refer to the link to get the pretrained model : https://drive.google.com/file/d/1ZhhG5ZEaqaLGQH5ZpZ5RxLakUDOp-DZ3/view?usp=sharing
 
+# Resultant Curve of the model - 
+## (Left to Right) Accuracy and Loss of the model - 
+![accuracy](accuracy.png)
+## (Left to Right) Precision and Recall - 
+![prec](precision.png)
 
 # Early Alzheimer Disease Detection with MRI Scan
 
