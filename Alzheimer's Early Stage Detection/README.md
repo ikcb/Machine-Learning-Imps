@@ -1,5 +1,9 @@
 # 👋 Hello
 
+
+## Note - Refer to the link to get the pretrained model : https://drive.google.com/file/d/1ZhhG5ZEaqaLGQH5ZpZ5RxLakUDOp-DZ3/view?usp=sharing
+
+
 # Early Alzheimer Disease Detection with MRI Scan
 
 Alzheimer's disease is an irreversible, progressive brain disorder that slowly destroys memory and thinking skills and, eventually, the ability to carry out the simplest tasks. In most people with the disease—those with the late-onset type—symptoms first appear in their mid-60
