@@ -16,7 +16,7 @@ style.use("ggplot")
 st.set_option('deprecation.showPyplotGlobalUse', False) # to handle depreciations
 # Showing the data in raw form
 st.title('Energy Efficiency of Buildings')
-st.write("Find the reasearch paper here - https://github.com/hereiskunalverma/Random_Repository/blob/main/Energy%20Efficiency%20of%20Building/HLCL%20Reference%20Paper%201.pdf")
+st.write("View the source here : https://github.com/ikcb/Machine-Learning-Imps/tree/main/Energy%20Efficiency%20of%20Building")
 
 
 # Side Bar of WebApp
